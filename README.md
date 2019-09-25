@@ -1,5 +1,5 @@
 # RestApiCard 
-Exemplo simple de serviço Rest (Get/Post/Delete/Put)
+Exemplo simples de serviço Rest (Get/Post/Delete/Put)
 <br><br>
 API Desenvolvida em:
 
