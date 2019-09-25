@@ -1,5 +1,6 @@
 # RestApiCard 
-
+Exemplo simple de serviço Rest (Get/Post/Delete/Put)
+<br><br>
 API Desenvolvida em:
 
 Java 8<br>
