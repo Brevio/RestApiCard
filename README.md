@@ -21,3 +21,7 @@ _____________________________________________________
 
 sudo docker build -t rest-service .<br>
 sudo docker run -ti -p 80:8080 rest-service
+
+_____________________________________________________
+<h3>Teste</h3>
+<link>http://localhost/vr/v1</link>
