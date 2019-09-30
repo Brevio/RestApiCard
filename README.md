@@ -19,9 +19,9 @@ Swagger 2<br>
 _____________________________________________________
 <h3>Docker</h3>
 
-sudo docker build -t rest-service .<br>
-sudo docker run -ti -p 80:8080 rest-service
+<h3>sudo docker build -t rest-service</h3>
+<h3>sudo docker run -ti -p 80:8080 rest-service</h3>
 
 _____________________________________________________
 <h3>Teste</h3>
-<link>http://localhost/vr/v1</link>
+[Localhost](http://localhost/vr/v1).
