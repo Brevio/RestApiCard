@@ -19,5 +19,5 @@ Swagger 2<br>
 _____________________________________________________
 <h3>Docker</h3>
 
-sudo docker build -t rest-service .
+sudo docker build -t rest-service .<br>
 sudo docker run -ti -p 80:8080 rest-service
