@@ -16,4 +16,8 @@ Swagger 2<br>
 
 <h5>mvn spring-boot:run</h5>
 
+_____________________________________________________
+<h3>Docker</h3>
 
+sudo docker build -t rest-service .
+sudo docker run -ti -p 80:8080 rest-service
