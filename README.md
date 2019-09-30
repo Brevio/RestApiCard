@@ -23,5 +23,5 @@ _____________________________________________________
 <h5>sudo docker run -ti -p 80:8080 rest-service</h5>
 
 _____________________________________________________
-<h3>Teste</h3>
-http://localhost/vr/v1
+<h3>Documentação</h3>
+http://localhost/swagger-ui.html
