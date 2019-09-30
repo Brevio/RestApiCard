@@ -18,7 +18,7 @@ _____________________________________________________
 <h3>Docker</h3>
 
 <h5>sudo docker build -t rest-service .</h5>
-<h5>sudo docker run -ti -p 80:8080 rest-service</h5>
+<h5>sudo docker run -ti -p 80:8081 rest-service</h5>
 
 _____________________________________________________
 <h3>Documentação</h3>
